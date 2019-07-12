@@ -1,0 +1,16 @@
+{
+  "name": "vue-cli-plugin-storee",
+  "version": "0.1.0",
+  "description": "storee plugin for vue-cli",
+  "main": "index.js",
+  "keywords": [
+    "vue",
+    "cli",
+    "storee"
+  ],
+  "author": "Shawn",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.2"
+  }
+}
